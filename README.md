@@ -2,6 +2,8 @@
 
 Welcome to the Phishing Lockdown Automation repository! This project contains scripts and tools designed to automate the detection, forensic analysis, and reporting of phishing campaigns.
 
+![image](https://github.com/user-attachments/assets/0f9b8ad4-29f6-48be-a4c1-89446f0caad9)
+
 ## Overview
 For a comprehensive overview of the campaign structure, workflow, and detailed documentation, please visit our project board:
 
